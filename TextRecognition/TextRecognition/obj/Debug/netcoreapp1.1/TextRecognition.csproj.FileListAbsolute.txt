@@ -1,0 +1,10 @@
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\bin\Debug\netcoreapp1.1\TextRecognition.deps.json
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\bin\Debug\netcoreapp1.1\TextRecognition.runtimeconfig.json
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\bin\Debug\netcoreapp1.1\TextRecognition.runtimeconfig.dev.json
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\bin\Debug\netcoreapp1.1\TextRecognition.dll
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\bin\Debug\netcoreapp1.1\TextRecognition.pdb
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\obj\Debug\netcoreapp1.1\TextRecognition.csprojResolveAssemblyReference.cache
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\obj\Debug\netcoreapp1.1\TextRecognition.csproj.CoreCompileInputs.cache
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\obj\Debug\netcoreapp1.1\TextRecognition.AssemblyInfo.cs
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\obj\Debug\netcoreapp1.1\TextRecognition.dll
+C:\Users\kevjy\Documents\Fall2017\HackTx\TextRecognition\TextRecognition\obj\Debug\netcoreapp1.1\TextRecognition.pdb
